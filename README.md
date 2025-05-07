@@ -13,12 +13,13 @@
 "MENTOR":NEELA SANTOSH 
 
 
-****YOU HAVE TO ADD DESCRIPTION 500 WORDS FOR TASK1
+****YOU HAVE TO ADD DESCRIPTION 500 WORDS FOR TASKQ
 
 
 
 #OUTPUT
 
 
- 
-https://github.com/valli-1210/INTERACTIVE-QUIZ-APPLICATION/issues/1#issue-3044548617
+
+
+![Image](https://github.com/user-attachments/assets/4f87ad45-7360-418f-81a6-676427a10c1e
